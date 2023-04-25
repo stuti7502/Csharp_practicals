@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TC6UCnG5O4J9Nmo5QqqHv4u2JKvyAXIkns2b0SvNtwlxodsMh+3kpGVd+Wfzi30oiLd1DQpk5pO9TsRvyDrwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\Practical1\\DebuggingApplication\\DebuggingApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

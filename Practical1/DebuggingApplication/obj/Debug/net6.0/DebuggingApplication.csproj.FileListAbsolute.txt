@@ -1,0 +1,15 @@
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.exe
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.deps.json
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.runtimeconfig.json
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.dll
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.pdb
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.csproj.AssemblyReference.cache
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.AssemblyInfoInputs.cache
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.AssemblyInfo.cs
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.csproj.CoreCompileInputs.cache
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.dll
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\obj\Debug\net6.0\refint\DebuggingApplication.dll
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.pdb
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.genruntimeconfig.cache
+C:\Users\stuti\source\repos\Practical1\DebuggingApplication\obj\Debug\net6.0\ref\DebuggingApplication.dll

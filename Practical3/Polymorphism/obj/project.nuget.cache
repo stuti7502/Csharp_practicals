@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWcfObjp6NcDdei8fyJT0TqenAIDiVOg95DRmwOA429Pyw7OuYSbos4nI3r67NXmL/7DWhwInKMb7t9NpKVb5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\Practical3\\Polymorphism\\Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

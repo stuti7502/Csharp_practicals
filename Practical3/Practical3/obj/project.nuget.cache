@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rr5Nw6fH5AeXK81xAL42AoG4ZV5smb+ugRnyRIXV6JEGhnZdQh3JwKfOOQDx4B8l9VuvM7lxepI+bdG99Z9O2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\Practical3\\Practical3\\Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
