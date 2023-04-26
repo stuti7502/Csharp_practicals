@@ -4,8 +4,9 @@ class Student
 {
     public static string Name;
     public static decimal[] Marks = new decimal[5];
-    public static decimal AverageMarks { get; set; }
+    public static decimal AverageMarks;
 
+    //Calculate the average marks 
     public static decimal CalculateAverageMarks(out decimal AverageMarks)
     {
         decimal sum = 0;
@@ -18,7 +19,7 @@ class Student
     }
 
 
-
+    //Calculate Grade
     public static string CalculateGrade(decimal[] marks)
     {
         decimal amarks = 0;
@@ -38,6 +39,7 @@ class Student
         }
     }
 
+
     public enum Options
     {
 
@@ -55,15 +57,39 @@ class Student
     {
         Console.WriteLine("Enter Name of a Student");
         Name = Console.ReadLine();
+
+        //User Input for marks and validation for entering (cannot be greater than 100, less than 0 and cannot be string)
         for (var i = 0; i < 5; i++)
         {
-             Console.WriteLine($"Enter the marks of {i + 1} subject");
-             Marks[i] = Convert.ToDecimal(Console.ReadLine());
+        marks:
+            Console.WriteLine($"Enter the marks of {i + 1} subject");
+            string mark = Console.ReadLine();
+            bool mark1 = decimal.TryParse(mark, out decimal mark2);
+            if (mark1 == true)
+            {
+                if (Convert.ToDecimal(mark) <= 100 && Convert.ToDecimal(mark) > 0)
+                {
+                    Marks[i] = mark2;
+                }
+                else
+                {
+                    Console.WriteLine("Marks cannot be greater than 100 and less than 0");
+                    Console.WriteLine();
+                    goto marks;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Not a number! Please write number");
+                Console.WriteLine();
+                goto marks;
+            }
         }
 
+        //Options for performing different options
     Continue_here:
         Console.WriteLine();
-        Console.WriteLine("Choose an option to perform");
+        Console.WriteLine("Choose an option:");
         Console.WriteLine("1 - Average marks");
         Console.WriteLine("2 - Displays the minimum marks of the student");
         Console.WriteLine("3 - Displays the maximum mark");
@@ -110,7 +136,7 @@ class Student
         cont = Console.ReadLine().ToUpper();
 
 
-
+        //this will continue to loop unless user does not enter no
         if (cont == "YES")
         {
             goto Continue_here;
