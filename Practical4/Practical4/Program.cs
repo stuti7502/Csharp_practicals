@@ -94,6 +94,7 @@ class Student
         Console.WriteLine("2 - Displays the minimum marks of the student");
         Console.WriteLine("3 - Displays the maximum mark");
         Console.WriteLine("4 - Displays grade");
+        Console.WriteLine("5 - Exit");
         decimal amarks = 0;
         CalculateAverageMarks(out amarks);
         Console.WriteLine();
@@ -118,6 +119,8 @@ class Student
                 case Options.Grade:
                     Console.WriteLine("Grade " + CalculateGrade(Marks));
                     break;
+                case (Options)5:
+                    goto last;
                 default:
                     Console.WriteLine("Wrong Input!");
                     goto Continue_here;
@@ -151,8 +154,8 @@ class Student
             Console.WriteLine("Please type yes or no only");
             goto yesno;
         }
-
-
+    last:
+        return;
     }
 
 }

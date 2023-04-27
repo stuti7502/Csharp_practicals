@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stuti\\source\\repos\\Practical1\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical1\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\stuti\\source\\repos\\Practical1\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical1\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\stuti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stuti\\source\\repos\\Practical1\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical1\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stuti\\AppData\\Roaming\\NuGet\\NuGet.Config",

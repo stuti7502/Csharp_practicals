@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stuti\\source\\repos\\Practical1\\DebuggingApplication\\DebuggingApplication.csproj",
+      "projectUniqueName": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical1\\DebuggingApplication\\DebuggingApplication.csproj",
       "projectName": "DebuggingApplication",
-      "projectPath": "C:\\Users\\stuti\\source\\repos\\Practical1\\DebuggingApplication\\DebuggingApplication.csproj",
+      "projectPath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical1\\DebuggingApplication\\DebuggingApplication.csproj",
       "packagesPath": "C:\\Users\\stuti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stuti\\source\\repos\\Practical1\\DebuggingApplication\\obj\\",
+      "outputPath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical1\\DebuggingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stuti\\AppData\\Roaming\\NuGet\\NuGet.Config",

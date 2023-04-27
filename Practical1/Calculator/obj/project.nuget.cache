@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fT23cW+APCo2gWbkBjJm3DiqfnrCLePb1GKIWst3hNIsVmZWaD4AZb3U9Yxsuti9ISsGTtXa7WhfcBN7I/mfqA==",
+  "dgSpecHash": "eyzruuv4EzmxEb8sl3+HSQQL76TnNLcQR71C+nWmg23eHOHq4YjFVemXr1Bqx5JYJ5X1ClSlq5N2e8Zho/5OnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\Practical1\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical1\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
     "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
