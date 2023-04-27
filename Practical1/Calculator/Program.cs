@@ -6,7 +6,7 @@ internal class Program
         first:
         Console.WriteLine("Enter first number");
         string first = Console.ReadLine();
-        bool checkstr = int.TryParse(first, out int first1);
+        bool checkstr = decimal.TryParse(first, out decimal first1);
 
         //if statement checks if the FIRST numbere entered is string or number, if it is string it will go to else
         if (checkstr == true)
@@ -14,7 +14,7 @@ internal class Program
         second:
             Console.WriteLine("Enter second number");
             string second = Console.ReadLine();
-            bool checkstr1 = int.TryParse(second, out int second1);
+            bool checkstr1 = decimal.TryParse(second, out decimal second1);
             //if statement checks if the SECOND numbere entered is string or number, if it is string it will go to else
             if (checkstr1 == true)
             {
