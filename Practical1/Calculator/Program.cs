@@ -7,14 +7,19 @@ internal class Program
         Console.WriteLine("Enter first number");
         string first = Console.ReadLine();
         bool checkstr = int.TryParse(first, out int first1);
+
+        //if statement checks if the FIRST numbere entered is string or number, if it is string it will go to else
         if (checkstr == true)
         {
         second:
             Console.WriteLine("Enter second number");
             string second = Console.ReadLine();
             bool checkstr1 = int.TryParse(second, out int second1);
+            //if statement checks if the SECOND numbere entered is string or number, if it is string it will go to else
             if (checkstr1 == true)
             {
+
+                //exception for handling operation related errors
                 try
                 {
                     Console.WriteLine($"The sum of {first} and {second} is {first1 + second1}");
@@ -27,12 +32,14 @@ internal class Program
                     Console.WriteLine(ex.Message);
                 }
             }
+            //if the SECOND number entered is string, it will show error and will ask for input again
             else
             {
                 Console.WriteLine("Not a number! Enter number");
                 goto second;
             }
         }
+        //if the FIRST number entered is string, it will show error and will ask for input again
         else
         {
             Console.WriteLine("Not a number! Enter number");
