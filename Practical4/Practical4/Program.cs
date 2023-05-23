@@ -26,13 +26,13 @@ class Student
         CalculateAverageMarks(out amarks);
         switch (amarks)
         {
-            case var a when a > 90:
+            case (> 90):
                 return "A";
-            case var a when a > 80:
+            case (> 80):
                 return "B";
-            case var a when a > 70:
+            case (> 70):
                 return "C";
-            case var a when a < 70:
+            case (< 70):
                 return "D";
             default:
                 return "Wrong Input";
