@@ -11,7 +11,6 @@ public interface Itask
     void addmarks(string subject);
     void viewmarks();
 }
-
 public class Student: Itask
 {
     public string name;

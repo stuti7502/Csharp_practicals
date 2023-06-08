@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stuti\\source\\repos\\Practical7\\OCP\\OCP.csproj": {}
+    "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical7\\OCP\\OCP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stuti\\source\\repos\\Practical7\\OCP\\OCP.csproj": {
+    "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical7\\OCP\\OCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stuti\\source\\repos\\Practical7\\OCP\\OCP.csproj",
+        "projectUniqueName": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical7\\OCP\\OCP.csproj",
         "projectName": "OCP",
-        "projectPath": "C:\\Users\\stuti\\source\\repos\\Practical7\\OCP\\OCP.csproj",
+        "projectPath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical7\\OCP\\OCP.csproj",
         "packagesPath": "C:\\Users\\stuti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stuti\\source\\repos\\Practical7\\OCP\\obj\\",
+        "outputPath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical7\\OCP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stuti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,19 +53,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.13, 6.0.13]"
+              "version": "[6.0.16, 6.0.16]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.13, 6.0.13]"
+              "version": "[6.0.16, 6.0.16]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.13, 6.0.13]"
+              "version": "[6.0.16, 6.0.16]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.13, 6.0.13]"
+              "version": "[6.0.16, 6.0.16]"
             }
           ],
           "frameworkReferences": {
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     }

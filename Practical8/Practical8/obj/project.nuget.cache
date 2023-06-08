@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SPcFVmK4T46vJTYtCuNZcXtLDx6rsxeCaikYCLn7TjjAqoFu8bNVTASquauJqXOnkLJhuAjUNFum6znf6xnKvw==",
+  "dgSpecHash": "1ARWdsy9HmtxR3zkFP+PTzKU50dFxKUiJgRFpzedwygXhP5NunoMTnzl6uHdBKAS9OheA/GfsQZrHwt91WFpBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\Practical8\\Practical8\\Practical8.csproj",
+  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical8\\Practical8\\Practical8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",

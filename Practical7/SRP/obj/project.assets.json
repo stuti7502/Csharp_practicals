@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stuti\\source\\repos\\Practical7\\SRP\\SRP.csproj",
+      "projectUniqueName": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical7\\SRP\\SRP.csproj",
       "projectName": "SRP",
-      "projectPath": "C:\\Users\\stuti\\source\\repos\\Practical7\\SRP\\SRP.csproj",
+      "projectPath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical7\\SRP\\SRP.csproj",
       "packagesPath": "C:\\Users\\stuti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stuti\\source\\repos\\Practical7\\SRP\\obj\\",
+      "outputPath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical7\\SRP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stuti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,19 +59,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
+            "version": "[6.0.16, 6.0.16]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.13, 6.0.13]"
+            "version": "[6.0.16, 6.0.16]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
+            "version": "[6.0.16, 6.0.16]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
+            "version": "[6.0.16, 6.0.16]"
           }
         ],
         "frameworkReferences": {
@@ -79,7 +79,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
       }
     }
   }

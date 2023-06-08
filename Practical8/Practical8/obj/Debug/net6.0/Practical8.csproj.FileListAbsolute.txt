@@ -1,0 +1,15 @@
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\bin\Debug\net6.0\Practical8.exe
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\bin\Debug\net6.0\Practical8.deps.json
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\bin\Debug\net6.0\Practical8.runtimeconfig.json
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\bin\Debug\net6.0\Practical8.dll
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\bin\Debug\net6.0\Practical8.pdb
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\obj\Debug\net6.0\Practical8.csproj.AssemblyReference.cache
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\obj\Debug\net6.0\Practical8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\obj\Debug\net6.0\Practical8.AssemblyInfoInputs.cache
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\obj\Debug\net6.0\Practical8.AssemblyInfo.cs
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\obj\Debug\net6.0\Practical8.csproj.CoreCompileInputs.cache
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\obj\Debug\net6.0\Practical8.dll
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\obj\Debug\net6.0\refint\Practical8.dll
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\obj\Debug\net6.0\Practical8.pdb
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\obj\Debug\net6.0\Practical8.genruntimeconfig.cache
+C:\Users\stuti\source\repos\Practicals\Practical8\Practical8\obj\Debug\net6.0\ref\Practical8.dll

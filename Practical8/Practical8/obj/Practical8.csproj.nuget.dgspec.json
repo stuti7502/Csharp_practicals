@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stuti\\source\\repos\\Practical8\\Practical8\\Practical8.csproj": {}
+    "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical8\\Practical8\\Practical8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stuti\\source\\repos\\Practical8\\Practical8\\Practical8.csproj": {
+    "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical8\\Practical8\\Practical8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stuti\\source\\repos\\Practical8\\Practical8\\Practical8.csproj",
+        "projectUniqueName": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical8\\Practical8\\Practical8.csproj",
         "projectName": "Practical8",
-        "projectPath": "C:\\Users\\stuti\\source\\repos\\Practical8\\Practical8\\Practical8.csproj",
+        "projectPath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical8\\Practical8\\Practical8.csproj",
         "packagesPath": "C:\\Users\\stuti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stuti\\source\\repos\\Practical8\\Practical8\\obj\\",
+        "outputPath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical8\\Practical8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stuti\\AppData\\Roaming\\NuGet\\NuGet.Config",

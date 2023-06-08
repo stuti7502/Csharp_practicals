@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6OeJRlhjwdPhmn8kvBDp5KeO5pAMWx1PTm+8YdY/lLxNcEdMBAOFsnzp+dx41TBkvheF/cQpAEbyf65w5e7vfw==",
+  "dgSpecHash": "AP8kJ8aYwLmQY4R/d/3+Lj6EIcXNeFDg655B6nt44dbHMWuZswpQndcR2RjQtKfZuA1UBpMqcp773GDwYMBGTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\Practical7\\DIP\\DIP.csproj",
+  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\Practicals\\Practical7\\DIP\\DIP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }
