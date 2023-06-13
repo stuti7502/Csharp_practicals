@@ -1,6 +1,15 @@
-﻿class home_page
+﻿class CustomException: Exception
 {
-    
+    public CustomException()
+    {
+
+    }
+    public CustomException(string message): base(message) { }
+
+}
+class home_page
+{
+   
     public void home()
     {
         admin a = new admin();
@@ -12,14 +21,12 @@
         //EXCEPTION HANDLING
         try
         {
-            bool ischoice = true;
-            while (ischoice)
-            {
+            
                 int choice;
                 Console.WriteLine("Enter your choice");
                 choice = Convert.ToInt32(Console.ReadLine());
-
                 
+
                 switch (choice)
                 {
                     case 1:
@@ -37,19 +44,17 @@
                     case 3:
                         break;
                     default:
-                        Console.WriteLine("Wrong Input");
-                        break;
-                }
-                if (choice == 1 || choice == 2 || choice == 3)
-                {
-                    ischoice = false;
-                }
+                        throw new CustomException("Wrong Input found! Number should be 1, 2 or 3!");
+
             }
         }
-        catch(Exception ex) 
+        catch(CustomException ex) 
         { 
             Console.WriteLine(ex.Message); 
         }
-
+        finally
+        {
+           home();
+        }
     }
 }

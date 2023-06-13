@@ -6,7 +6,7 @@ sealed class admin : loginig, choices
     properties p = new properties();
     home_page h = new home_page();
     student s = new student();
-    public void stu_remove()
+    private void stu_remove()
     {
         s.datas();
         Console.WriteLine("Write the number of a student you want to remove");
@@ -49,7 +49,6 @@ sealed class admin : loginig, choices
                 case 2:
                     Console.Clear();
                     stu_remove();
-                    s.datas();
                     break;
                 case 3:
                     Console.Clear();

@@ -1,11 +1,11 @@
 ﻿using Practical8;
 //INHERITANCE
-class student : loginig
+internal class student : loginig
 {
     properties p = new properties();
     home_page h = new home_page();
     
-   //METHOD OVERLOADING
+    //METHOD OVERLOADING
     public void stu_choice(int x)
     {
         bool isstu_choice = true;
@@ -94,6 +94,9 @@ class student : loginig
     public void datas()
     {
 
+        p.data[2][0] = p.stu_loginid;
+        p.data[2][1] = p.stu_pass;
+        p.data[2][2] = "30000";
 
         if (p.data[0][0] == null)
         {
@@ -112,7 +115,7 @@ class student : loginig
             Console.WriteLine($"2. Name : {p.data[1][0]}, Password : {p.data[1][1]}, Fees amount : {p.data[1][2]}");
         }
 
-        if (p.data[2][0] == "" || p.data[2][0] == null || p.fees == 0)
+        if (p.data[2][0] == "" || p.data[2][0] == null)
         {
             Console.WriteLine(" ");
         }
